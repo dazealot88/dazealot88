@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dazealot88
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Linux and DevOps
+- 👀 I’m interested in AWS DevOps
+- 🌱 I’m currently learning AWS, Linux, DevOps (Terraform, K8s, Ansible)
 - 💞️ I’m looking to collaborate on Projects and learning opportunities
 - 📫 How to reach me ...
 
